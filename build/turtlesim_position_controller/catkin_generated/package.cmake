@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlesim_position_controller")
+set(turtlesim_position_controller_MAINTAINER "Jon Senra Dearle <jonsenra.93@gmail.com>")
+set(turtlesim_position_controller_DEPRECATED "")
+set(turtlesim_position_controller_VERSION "0.0.1")
+set(turtlesim_position_controller_BUILD_DEPENDS "roscpp" "rospy" "turtlesim" "geometry_msgs")
+set(turtlesim_position_controller_RUN_DEPENDS "roscpp" "rospy" "turtlesim" "geometry_msgs")
+set(turtlesim_position_controller_BUILDTOOL_DEPENDS "catkin")

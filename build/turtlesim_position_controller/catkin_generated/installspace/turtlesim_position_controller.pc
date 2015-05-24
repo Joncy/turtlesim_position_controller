@@ -1,0 +1,8 @@
+prefix=/home/salas/rys_ws/install
+
+Name: turtlesim_position_controller
+Description: Description of turtlesim_position_controller
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/salas/rys_ws/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+turtlesim_position_controller
+-DCATKIN_DEVEL_PREFIX=/home/salas/rys_ws/devel -DCMAKE_INSTALL_PREFIX=/home/salas/rys_ws/install -G Unix Makefiles
